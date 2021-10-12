@@ -1,0 +1,35 @@
+{
+    "jsonName": "PWABAR",
+    "menu": [
+        {
+            "producto": {
+                "name": "cerveza",
+                "info": "Esta es una cerveza bien elodia",
+                "precio": "$19",
+                "categoria": "Bebidas",
+                "ingredientes": "cerveza light",
+                "url": "assets/images/cart1.png"
+            }
+        },
+        {
+            "producto": {
+                "name": "agua",
+                "info": "Este es una cerveza light _-_",
+                "precio": "$24",
+                "categoria": "Bebidas",
+                "ingredientes": "35% alcohol",
+                "url": "assets/images/cart2.png"
+            }
+        },
+        {
+            "producto": {
+                "name": "carne",
+                "info": "Este es una cena light sin grasas",
+                "precio": "$525",
+                "categoria": "Alimentos",
+                "ingredientes": "Pan, Ajo y Chorizo",
+                "url": "assets/images/menu3.png"
+            }
+        }
+    ]
+}
